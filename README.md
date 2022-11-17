@@ -44,6 +44,10 @@ Buscando conhecimento em HTML 5, CSS 3, MYSQL E NODE.JS
 </div>
           
 
+![Snake animation](https://github.com/Ricardoxt1/Ricardoxt1/blob/output/github-contribution-grid-snake.svg)
+
+          
+
 
 
           
