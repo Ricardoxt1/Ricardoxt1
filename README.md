@@ -16,6 +16,8 @@ Tenho 23 anos idade, natural de Limeira - SP e residente em Quintana - SP.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" />  • **Linux**   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" /> • **Git**   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="70" height="70" /> • **Trello**   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60" /> • **Figma**    
 
+
+
 **Buscando conhecimento em:** 
 
 
