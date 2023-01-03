@@ -23,7 +23,7 @@ Tenho 23 anos idade, natural de Limeira - SP e residente em Quintana - SP.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60" /> • **HTML 5**  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60" /> • **CSS 3**  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" /> • **MYSQL**  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="60" height="60" /> • **Node.Js**
 
-##
+
 ## Contatos 
 <div>
 <a href="https://instagram.com/ricardoalexandr_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
