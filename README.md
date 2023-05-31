@@ -29,6 +29,11 @@ Atualmente estágio na Startup PedBot, localizada na cidade de Marília - SP.
 <div><a href="https://instagram.com/ricardoalexandr_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/ricardo-alexandre-ferreira-35702415a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "mailto:rf89234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      
 ## Estatística GitHub        
+
+<p align = "center">
+  <img width="45%" height="195px" src = "https://github-readme-stats.vercel.app/api?username=Ricardoxt1&show_icons=true&theme=radical&line_"/>
+ <img width="47.5%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ricardoxt1&show_icons=true&locale=en&layout=compact&theme=radical&line_" />
+</p>
           
 ![Snake animation](https://github.com/Ricardoxt1/Ricardoxt1/blob/output/github-contribution-grid-snake.svg)
 
