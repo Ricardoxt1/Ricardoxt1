@@ -3,12 +3,6 @@
 Tenho 23 anos idade, natural de Limeira - SP e residente em Quintana - SP.
 Atualmente estágio na Startup PedBot, localizada na cidade de Marília - SP.
 
-:clapper: Gosto de anime, filmes e séries de ficção científica.
-
-:headphones: Escuto e curto muito rock e eletronica.
-
-:video_game: Tenho como hoobie jogos eletrônicos: fps, rpg e mmo.
-
 :books: Atualmente estou cursando ensino superior de tecnologia no curso Big Data no Agronegócio. 
 
 ## Ferramentas e Tecnologias 
