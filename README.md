@@ -1,6 +1,5 @@
 ## Eai, tudo joia? Seja bem-vindo(a)! <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" width="40" height="40" /> 
 
-Tenho 23 anos idade, natural de Limeira - SP e residente em Quintana - SP.
 Atualmente estágio na Startup PedBot, localizada na cidade de Marília - SP.
 
 :books: Atualmente estou cursando ensino superior de tecnologia no curso Big Data no Agronegócio. 
