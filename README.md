@@ -2,7 +2,7 @@
 
 Atualmente estágio na Startup PedBot, localizada na cidade de Marília - SP.
 
-:books: Atualmente estou cursando ensino superior de tecnologia no curso Big Data no Agronegócio. 
+:books: No momento estou cursando ensino superior de tecnologia no curso Big Data no Agronegócio. 
 
 ## Ferramentas e Tecnologias 
 
